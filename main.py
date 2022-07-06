@@ -5,7 +5,7 @@ Apresenta na tela estas informações de modo que permaneçam alinhados vertical
 
 count = 0
 texto=""
-while(count < 2):
+while(count < 3):
     nome01 = input("Informe seu nome: ")
     idade01 = input("Informe sua idade: ")
     peso01 = input("Informe seu peso: ")
